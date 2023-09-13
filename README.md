@@ -1,4 +1,4 @@
-# Exercise 4
+# Exercise 4: Styling Images and Text
 
 ## Objectives
 Practice styling the content of a webpage using CSS. When you are finished your page could look similar to the example below:</br>
