@@ -35,7 +35,7 @@ Remember to:
 
 ### Step 3: Add some images
 * Add a logo
-  * Add the provided logo image into the header element. Notice that the logo is a PNG file, this is an appropriate file type for logos with transparent backgrounds.
+  * Add the provided logo image (in the images folder) to the header element. Notice that the logo is a PNG file, this is an appropriate file type for logos with transparent backgrounds.
     * Make the image width 300 pixels using HTML.
 * Add an editorial image
   * Download a royalty-free image from this website: https://unsplash.com/. Add the image as an editorial image at the bottom of the page, after the section element. The image must be an appropriate file type and it must be optimized - see your weekly reading for tips on how to optimize an image. 
