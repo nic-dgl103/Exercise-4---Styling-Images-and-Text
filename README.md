@@ -35,7 +35,7 @@ Remember to:
 
 ### Step 3: Add some images
 * Add a logo
-  * Add the provided logo image into the header element. Notice that the logo is a PNG file, thisis an appropriate file type for logos with transparent backgrounds.
+  * Add the provided logo image into the header element. Notice that the logo is a PNG file, this is an appropriate file type for logos with transparent backgrounds.
     * Make the image width 300 pixels using HTML.
 * Add an editorial image
   * Download a royalty-free image from this website: https://unsplash.com/. Add the image as an editorial image at the bottom of the page, after the section element. The image must be an appropriate file type and it must be optimized - see your weekly reading for tips on how to optimize an image. 
@@ -44,9 +44,9 @@ Remember to:
 
 ### Step 4: Change the layout
 * Align all the text on the page to the centre except for the paragraphs.
-* Divide the paragraphs into two columns with an automic width.
+* Divide the paragraphs into two columns with an automatic width.
 * Use the the following declarations to make the layout look like the provided image: `width: 40%; display: inline-block;`
-* Resize your browser window to see how the layout of the page shifts with different screen sizes. The image was given a absolute size of 600 pixels in the HTML so it is cut off on a smaller screen. Use CSS to overwrite that dimension and change the image width to 100%, a unit that is relative to the size of its parent element. Resize your browser again to notice the effect.
+* Resize your browser window to see how the layout of the page shifts with different screen sizes. The image was given an absolute size of 600 pixels in the HTML so it is cut off on a smaller screen. Use CSS to overwrite that dimension and change the image width to 100%, a unit that is relative to the size of its parent element. Resize your browser again to notice the effect.
 
 ### Step 4: Format, organize and add comments 
 * Use the Prettier VSCode extension to format your code.
