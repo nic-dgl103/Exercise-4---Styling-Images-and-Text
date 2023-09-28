@@ -31,7 +31,7 @@ Remember to:
   * Change the root font size to 62.5%;
   * Change the font size of all the text on the page to the equivalent of 16 pixels using the rem unit.
   * Increase the size of the h1 to the equivalent of 80 pixels using the rem unit.
-  * Use the text-transform, font-style, line-height and letter-spacing properties to style any of the content on the page.
+  * Use all the text-transform, font-style, line-height and letter-spacing properties to style any of the content on the page.
 
 ### Step 3: Add some images
 * Add a logo
