@@ -45,7 +45,7 @@ Remember to:
 ### Step 4: Change the layout
 * Align all the text on the page to the centre except for the paragraphs.
 * Divide the paragraphs into two columns with an automatic width.
-* Use the the following declarations to make the layout look like the provided image: `width: 40%; display: inline-block;`
+* Use the following declarations to make the layout look like the provided image: `width: 40%; display: inline-block;`. Tip: You will need to apply this styling to 2 different elements.
 * Resize your browser window to see how the layout of the page shifts with different screen sizes. The image was given an absolute size of 600 pixels in the HTML so it is cut off on a smaller screen. Use CSS to overwrite that dimension and change the image width to 100%, a unit that is relative to the size of its parent element. Resize your browser again to notice the effect.
 
 ### Step 4: Format, organize and add comments 
