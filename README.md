@@ -10,10 +10,7 @@ Remember to:
 * Make regular commits and pushes.
 ### Step 1: Get set up
 * Clone your remote exercise repository onto your local machine.
-* Add a comment in the head element of the homepage including: the course code and your section number - your name - Styling Images and Text. Example:
-```
-<!-- DGL 103 CVS1 - your name - Styling Images and Text -->
-```
+
 ### Step 2: Style the text
 * Change the colours:
   * Give the whole page a background colour of your choice using a HEX value.
